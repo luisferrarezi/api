@@ -10,7 +10,7 @@ Api criada para estudar a respeito do Spring Framework
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg#vitrinedev)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2b3whec_NCWvIvnZ4oU-GtxA-NAQAs89WGQ&usqp=CAU#vitrinedev)
 
 ## Detalhes do projeto
 
@@ -23,3 +23,5 @@ Apenas uma API para estudos de Spring Framework
 
 # Banco de dados
 - MySql
+
+Crie o banco de dados com o nome de vollmed_api.
